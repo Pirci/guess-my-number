@@ -1,2 +1,3 @@
-# guess-my-number
-JavaScript number guess game
+# Guess My Number
+
+JavaScript number guess game!
