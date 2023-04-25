@@ -3,6 +3,12 @@
 This is a JavaScript game that simulates a simple "Guess My Number" game. The
 game is about the player trying to guess a randomly selected number.
 
+## Live Demo
+
+Preview: https://pirci.github.io/guess-my-number/
+
+![landing-page](img/demo.gif)
+
 ## Game Rules
 
 The game randomly generates a secret number between 1 and 20. The player's task
